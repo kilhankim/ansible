@@ -1,0 +1,162 @@
+{
+  "936777008077": [
+    "52.79.221.240", 
+    "52.79.175.163"
+  ], 
+  "_meta": {
+    "hostvars": {
+      "52.79.175.163": {
+        "ansible_ssh_host": "52.79.175.163", 
+        "ec2__in_monitoring_element": false, 
+        "ec2_account_id": "936777008077", 
+        "ec2_ami_launch_index": "0", 
+        "ec2_architecture": "x86_64", 
+        "ec2_block_devices": {
+          "xvda": "vol-0a512c1ef26be52f1"
+        }, 
+        "ec2_client_token": "", 
+        "ec2_dns_name": "", 
+        "ec2_ebs_optimized": false, 
+        "ec2_eventsSet": "", 
+        "ec2_group_name": "", 
+        "ec2_hypervisor": "xen", 
+        "ec2_id": "i-0c445a5e00c9d5096", 
+        "ec2_image_id": "ami-0e4a253fb5f082688", 
+        "ec2_instance_type": "t2.micro", 
+        "ec2_ip_address": "52.79.175.163", 
+        "ec2_item": "", 
+        "ec2_kernel": "", 
+        "ec2_key_name": "kilhan_key", 
+        "ec2_launch_time": "2020-02-01T11:07:20.000Z", 
+        "ec2_monitored": false, 
+        "ec2_monitoring": "", 
+        "ec2_monitoring_state": "disabled", 
+        "ec2_persistent": false, 
+        "ec2_placement": "ap-northeast-2a", 
+        "ec2_platform": "", 
+        "ec2_previous_state": "", 
+        "ec2_previous_state_code": 0, 
+        "ec2_private_dns_name": "ip-10-0-1-224.ap-northeast-2.compute.internal", 
+        "ec2_private_ip_address": "10.0.1.224", 
+        "ec2_public_dns_name": "", 
+        "ec2_ramdisk": "", 
+        "ec2_reason": "", 
+        "ec2_region": "ap-northeast-2", 
+        "ec2_requester_id": "", 
+        "ec2_root_device_name": "/dev/xvda", 
+        "ec2_root_device_type": "ebs", 
+        "ec2_security_group_ids": "sg-008ed51b4a4c2d148", 
+        "ec2_security_group_names": "kh-public-security-group", 
+        "ec2_sourceDestCheck": "true", 
+        "ec2_spot_instance_request_id": "", 
+        "ec2_state": "running", 
+        "ec2_state_code": 16, 
+        "ec2_state_reason": "", 
+        "ec2_subnet_id": "subnet-09f961ede3cd10c5c", 
+        "ec2_tag_Name": "AnsibleTest", 
+        "ec2_virtualization_type": "hvm", 
+        "ec2_vpc_id": "vpc-094c0eb3213728ae5"
+      }, 
+      "52.79.221.240": {
+        "ansible_ssh_host": "52.79.221.240", 
+        "ec2__in_monitoring_element": false, 
+        "ec2_account_id": "936777008077", 
+        "ec2_ami_launch_index": "0", 
+        "ec2_architecture": "x86_64", 
+        "ec2_block_devices": {
+          "xvda": "vol-0c7c423c60befb607"
+        }, 
+        "ec2_client_token": "", 
+        "ec2_dns_name": "", 
+        "ec2_ebs_optimized": false, 
+        "ec2_eventsSet": "", 
+        "ec2_group_name": "", 
+        "ec2_hypervisor": "xen", 
+        "ec2_id": "i-0517ca1f375774f3f", 
+        "ec2_image_id": "ami-0e4a253fb5f082688", 
+        "ec2_instance_type": "t2.micro", 
+        "ec2_ip_address": "52.79.221.240", 
+        "ec2_item": "", 
+        "ec2_kernel": "", 
+        "ec2_key_name": "kilhan_key", 
+        "ec2_launch_time": "2020-02-01T05:26:07.000Z", 
+        "ec2_monitored": false, 
+        "ec2_monitoring": "", 
+        "ec2_monitoring_state": "disabled", 
+        "ec2_persistent": false, 
+        "ec2_placement": "ap-northeast-2a", 
+        "ec2_platform": "", 
+        "ec2_previous_state": "", 
+        "ec2_previous_state_code": 0, 
+        "ec2_private_dns_name": "ip-10-0-1-147.ap-northeast-2.compute.internal", 
+        "ec2_private_ip_address": "10.0.1.147", 
+        "ec2_public_dns_name": "", 
+        "ec2_ramdisk": "", 
+        "ec2_reason": "", 
+        "ec2_region": "ap-northeast-2", 
+        "ec2_requester_id": "", 
+        "ec2_root_device_name": "/dev/xvda", 
+        "ec2_root_device_type": "ebs", 
+        "ec2_security_group_ids": "sg-008ed51b4a4c2d148", 
+        "ec2_security_group_names": "kh-public-security-group", 
+        "ec2_sourceDestCheck": "true", 
+        "ec2_spot_instance_request_id": "", 
+        "ec2_state": "running", 
+        "ec2_state_code": 16, 
+        "ec2_state_reason": "", 
+        "ec2_subnet_id": "subnet-09f961ede3cd10c5c", 
+        "ec2_tag_Name": "DevOps_study", 
+        "ec2_virtualization_type": "hvm", 
+        "ec2_vpc_id": "vpc-094c0eb3213728ae5"
+      }
+    }
+  }, 
+  "ami_0e4a253fb5f082688": [
+    "52.79.221.240", 
+    "52.79.175.163"
+  ], 
+  "ap-northeast-2": [
+    "52.79.221.240", 
+    "52.79.175.163"
+  ], 
+  "ap-northeast-2a": [
+    "52.79.221.240", 
+    "52.79.175.163"
+  ], 
+  "ec2": [
+    "52.79.221.240", 
+    "52.79.175.163"
+  ], 
+  "i-0517ca1f375774f3f": [
+    "52.79.221.240"
+  ], 
+  "i-0c445a5e00c9d5096": [
+    "52.79.175.163"
+  ], 
+  "instance_state_running": [
+    "52.79.221.240", 
+    "52.79.175.163"
+  ], 
+  "key_kilhan_key": [
+    "52.79.221.240", 
+    "52.79.175.163"
+  ], 
+  "security_group_kh_public_security_group": [
+    "52.79.221.240", 
+    "52.79.175.163"
+  ], 
+  "tag_Name_AnsibleTest": [
+    "52.79.175.163"
+  ], 
+  "tag_Name_DevOps_study": [
+    "52.79.221.240"
+  ], 
+  "type_t2_micro": [
+    "52.79.221.240", 
+    "52.79.175.163"
+  ], 
+  "vpc_id_vpc_094c0eb3213728ae5": [
+    "52.79.221.240", 
+    "52.79.175.163"
+  ]
+}
