@@ -25,3 +25,4 @@
     name: jenkins 
     enabled: yes 
     state: started
+    args: --httpPort=8080
